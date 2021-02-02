@@ -5,8 +5,8 @@
 ;
 [subrepo]
 	remote = https://github.com/alex-gausman/base-api.git
-	branch = main
+	branch = task/001-changes
 	commit = dc165e5a3b297d07f839edcad5b31364b4a8bec8
-	parent = 74c3de3ff950dfbb0d17c204fae7e6f4334bfe50
+	parent = cbdf25990060feb25d2b12305796db38298310e0
 	method = merge
 	cmdver = 0.4.3
