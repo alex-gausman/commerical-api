@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/alex-gausman/base-api.git
+	branch = main
+	commit = 6e781ac784d487c17cf4e6228a989a4d07a449bb
+	parent = 311c38014f0eae95ff7c9fcccc64ed4d2e9d1838
+	method = merge
+	cmdver = 0.4.3
